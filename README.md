@@ -1,4 +1,4 @@
-# Pushkar Talwalkar — Portfolio (Vite + React + Tailwind)
+# My Portfolio (Vite + React + Tailwind)
 
 This is a lightweight Vite + React + Tailwind project containing a single-page portfolio for Pushkar Talwalkar.
 
